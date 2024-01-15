@@ -1,0 +1,12 @@
+DIR: hw beckend 1
+  FILE: app.js
+  DIR: folder 2
+    FILE: file.js
+    FILE: output.txt
+  DIR: folder1
+    DIR: folder1
+      FILE: helpers.js
+      FILE: index.js
+    DIR: folder2
+      FILE: file1.txt
+  FILE: output.txt
